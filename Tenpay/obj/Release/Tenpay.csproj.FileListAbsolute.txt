@@ -1,0 +1,9 @@
+F:\myGitHub\Tenpay\Tenpay\bin\Release\Tenpay.exe.config
+F:\myGitHub\Tenpay\Tenpay\bin\Release\Tenpay.exe
+F:\myGitHub\Tenpay\Tenpay\bin\Release\Tenpay.pdb
+F:\myGitHub\Tenpay\Tenpay\bin\Release\WebDriver.dll
+F:\myGitHub\Tenpay\Tenpay\bin\Release\WebDriver.Support.dll
+F:\myGitHub\Tenpay\Tenpay\bin\Release\WebDriver.xml
+F:\myGitHub\Tenpay\Tenpay\bin\Release\WebDriver.Support.xml
+F:\myGitHub\Tenpay\Tenpay\obj\Release\Tenpay.exe
+F:\myGitHub\Tenpay\Tenpay\obj\Release\Tenpay.pdb

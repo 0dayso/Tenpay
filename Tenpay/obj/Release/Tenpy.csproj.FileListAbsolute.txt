@@ -1,0 +1,10 @@
+d:\documents\visual studio 2015\Projects\Tenpy\Tenpy\bin\Release\Tenpy.exe.config
+d:\documents\visual studio 2015\Projects\Tenpy\Tenpy\bin\Release\Tenpy.exe
+d:\documents\visual studio 2015\Projects\Tenpy\Tenpy\bin\Release\Tenpy.pdb
+d:\documents\visual studio 2015\Projects\Tenpy\Tenpy\bin\Release\WebDriver.dll
+d:\documents\visual studio 2015\Projects\Tenpy\Tenpy\bin\Release\WebDriver.xml
+d:\documents\visual studio 2015\Projects\Tenpy\Tenpy\obj\Release\Tenpy.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Tenpy\Tenpy\obj\Release\Tenpy.exe
+d:\documents\visual studio 2015\Projects\Tenpy\Tenpy\obj\Release\Tenpy.pdb
+d:\documents\visual studio 2015\Projects\Tenpy\Tenpy\bin\Release\WebDriver.Support.dll
+d:\documents\visual studio 2015\Projects\Tenpy\Tenpy\bin\Release\WebDriver.Support.xml
